@@ -1,2 +1,6 @@
 Bienvenidos a nuestra aplicacion web!!!
+<<<<<<< HEAD
 1 - Institucional
+=======
+2 - Noticias
+>>>>>>> d817fa0873eff4733cb87d0088ee4c6faac51471
